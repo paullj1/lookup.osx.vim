@@ -5,11 +5,11 @@ is over the word you would like to lookup.  Requires vim to be installed using
 python` to find out if yours is.
 
 ## Credits:
-[swaroopch]{https://github.com/swaroopch} - 
-[Lookup.vim]{https://github.com/vim-scripts/lookup.vim}
+[swaroopch](https://github.com/swaroopch) - 
+[Lookup.vim](https://github.com/vim-scripts/lookup.vim)
 
-[Josh Hunt]{http://apple.stackexchange.com/users/903/josh-hunt} - 
-[Python lookup]{http://apple.stackexchange.com/questions/90040/look-up-a-word-in-dictionary-app-in-terminalk}
+[Josh Hunt](http://apple.stackexchange.com/users/903/josh-hunt) - 
+[Python lookup](http://apple.stackexchange.com/questions/90040/look-up-a-word-in-dictionary-app-in-terminalk)
 
 ## License
 Copyright (c) 2016, Paul Jordan
