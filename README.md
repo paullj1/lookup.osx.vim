@@ -4,6 +4,9 @@ is over the word you would like to lookup.  Requires vim to be installed using
 +python (default homebrew installation includes).  Run `vim --version | grep
 python` to find out if yours is.
 
+## Dependencies:
+`pip install pyobjc`
+
 ## Credits:
 [swaroopch]{https://github.com/swaroopch} - 
 [Lookup.vim]{https://github.com/vim-scripts/lookup.vim}
