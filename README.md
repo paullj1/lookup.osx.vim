@@ -5,6 +5,7 @@ is over the word you would like to lookup.  Requires vim to be installed using
 python` to find out if yours is.
 
 ## Dependencies:
+You'll need to install X Code, and then:
 `pip install pyobjc`
 
 ## Credits:
