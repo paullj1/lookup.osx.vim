@@ -9,11 +9,10 @@ You'll need to install X Code, and then:
 `pip install pyobjc`
 
 ## Credits:
-[swaroopch]{https://github.com/swaroopch} - 
-[Lookup.vim]{https://github.com/vim-scripts/lookup.vim}
-
-[Josh Hunt]{http://apple.stackexchange.com/users/903/josh-hunt} - 
-[Python lookup]{http://apple.stackexchange.com/questions/90040/look-up-a-word-in-dictionary-app-in-terminalk}
+* [swaroopch](https://github.com/swaroopch) - 
+[Lookup.vim](https://github.com/vim-scripts/lookup.vim)
+* [Josh Hunt](http://apple.stackexchange.com/users/903/josh-hunt) - 
+[Python lookup](http://apple.stackexchange.com/questions/90040/look-up-a-word-in-dictionary-app-in-terminalk)
 
 ## License
 Copyright (c) 2016, Paul Jordan
